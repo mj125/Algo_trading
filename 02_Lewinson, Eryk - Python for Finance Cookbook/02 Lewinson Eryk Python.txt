@@ -1,1 +1,10 @@
 02_Lewinson, Eryk - Python for Finance Cookbook/Lewinson      45
+
+
+
+
+https://pypi.org/project/backtesting/
+
+https://docs.bokeh.org/en/3.3.1/docs/user_guide/advanced/bokehjs.html
+
+https://github.com/polakowo/vectorbt
